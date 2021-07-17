@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/v1/invoices/';
+const API_URL = 'http://localhost:3000/api/invoices/';
 import axios from "axios";
 
 export const invoice = {
